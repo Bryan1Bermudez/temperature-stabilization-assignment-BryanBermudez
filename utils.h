@@ -9,7 +9,8 @@
 
 struct msg{
     float T;     // Temperature 
-    int Index;    // Index indifying the process 
+    int Index;    // Index indifying the process
+    char status[20];
 }; 
 
 struct msg prepare_message(int i_Index, float i_Temperature); 
