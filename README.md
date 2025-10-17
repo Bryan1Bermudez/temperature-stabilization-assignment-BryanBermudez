@@ -1,5 +1,5 @@
 How to run
-same as exmaple code as its built on it
+same as the example code, as it's built on it
 
 
 
