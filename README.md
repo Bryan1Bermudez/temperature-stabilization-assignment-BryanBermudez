@@ -1,3 +1,8 @@
+How to run
+same as exmaple code as its built on it
+
+
+
 # Temperature stabilization using inter-process communication
 
 ### :warning: This is a Linux/Unix OS assignment. It is not an OS/161 Assignment
